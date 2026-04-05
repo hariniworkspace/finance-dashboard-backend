@@ -9,6 +9,13 @@ This project is a backend system designed to manage financial records with stric
 The system focuses on real-world backend engineering practices including secure authorization, structured API design, and backend-driven data processing.
 
 ---
+## API Walkthrough Video
+
+This video demonstrates the complete functionality of the backend including authentication, role-based access control, financial record operations, and dashboard APIs.
+
+https://drive.google.com/file/d/1WmFz7uiDFyV8G0Gh0Iw9Ts2n_j83I4EE/view?usp=sharing
+
+---
 
 ## Key Highlights
 
@@ -28,7 +35,7 @@ All requests pass through a structured pipeline where authentication, authorizat
 ## REQUEST FLOW
 
 <img width="882" height="1665" alt="diagram-export-4-5-2026-2_35_51-PM" src="https://github.com/user-attachments/assets/dfb17e04-e32a-4857-a3ec-d59a12fe6faa" />
---
+
 
 ## KEY HIGHLIGHTS
 
@@ -106,6 +113,13 @@ JWT_SECRET=V7@xP3!qZ9#Lm2$Rw8Tn6&YbC4^kD1fHsA5jQ0uE
 
 npm run dev
 
+---
+## Deployed API
+
+This backend is deployed using Render and accessible via the following base URL.  
+All API endpoints can be tested using tools like Postman or integrated with a frontend application.
+
+https://your-deployed-link.com
 ---
 
 ## System Design Considerations
