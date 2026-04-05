@@ -119,7 +119,7 @@ npm run dev
 This backend is deployed using Render and accessible via the following base URL.  
 All API endpoints can be tested using tools like Postman or integrated with a frontend application.
 
-https://your-deployed-link.com
+https://finance-dashboard-backend-dusp.onrender.com
 ---
 
 ## System Design Considerations
