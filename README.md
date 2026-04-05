@@ -102,11 +102,6 @@ npm install
 ---
 
 3. Configure environment variables
-
-PORT=5000  
-MONGO_URI=mongodb+srv://hariniworkspace_db_user:harini2819@cluster0.qyl4t61.mongodb.net/finance-dashboard  
-JWT_SECRET=V7@xP3!qZ9#Lm2$Rw8Tn6&YbC4^kD1fHsA5jQ0uE  
-
 ---
 
 4. Run the server
